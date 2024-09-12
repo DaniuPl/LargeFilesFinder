@@ -26,10 +26,8 @@ class Program
             {
                 Console.WriteLine("Scan Disk...");
 
-                // Rekurencyjne skanowanie folderów i plików
                 ScanDirectory(rootPath, entries);
 
-                // Sortowanie według rozmiaru malejąco
                 var largestEntries = entries.OrderByDescending(e => e.Size).Take(10);
 
                 Console.WriteLine("\nLargest files and folders:");
