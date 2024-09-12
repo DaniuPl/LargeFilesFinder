@@ -12,7 +12,7 @@ Download from [releases](https://github.com/DaniuPl/LargeFilesFinder/releases/).
 ## Usage
 
 - 🚀
-- 
+
 ## Development
 
 - IDE: Visual Studio 2022
