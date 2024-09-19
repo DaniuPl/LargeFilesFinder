@@ -16,5 +16,5 @@ Download from [releases](https://github.com/DaniuPl/LargeFilesFinder/releases/).
 ## Development
 
 - IDE: Visual Studio 2022
-- Language: C# C# 12.0
+- Language: C# 12.0
 - SDK: .NET 8
